@@ -1,0 +1,27 @@
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/appsettings.Development.json
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/appsettings.json
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App.staticwebassets.endpoints.json
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App.deps.json
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App.runtimeconfig.json
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App.dll
+/home/iomar/RUNNY/MyNew App/bin/Debug/net9.0/MyNew App.pdb
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.GeneratedMSBuildEditorConfig.editorconfig
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.AssemblyInfoInputs.cache
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.AssemblyInfo.cs
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.csproj.CoreCompileInputs.cache
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.MvcApplicationPartsAssemblyInfo.cache
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/scopedcss/bundle/MyNew App.styles.css
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/staticwebassets.build.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/staticwebassets.development.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.dll
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/refint/MyNew App.dll
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.pdb
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.genruntimeconfig.cache
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/ref/MyNew App.dll
