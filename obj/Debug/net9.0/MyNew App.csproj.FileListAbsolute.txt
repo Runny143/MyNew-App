@@ -25,3 +25,4 @@
 /home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.pdb
 /home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.genruntimeconfig.cache
 /home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/ref/MyNew App.dll
+/home/iomar/RUNNY/MyNew App/obj/Debug/net9.0/MyNew App.sourcelink.json

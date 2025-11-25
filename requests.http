@@ -6,7 +6,7 @@ POST http://localhost:5054/todos
 Content-Type: application/json
 
 {
-    "id": 2,
+    "id": 3 ,
     "title": "Learn Java",
     "duedate": "2025-10-10T00:00:00",
     "iscompleted": false
@@ -20,3 +20,15 @@ DELETE http://localhost:5054/todos/1
 
 ###
 GET http://localhost:5054/task/1
+
+###
+PATCH http://localhost:5054/todos/1
+Content-Type: application/json  
+
+{
+    "id": 1 ,
+    "title": " Java",
+    "duedate": "2025-10-10T00:00:00",
+    "iscompleted": true
+    
+}
